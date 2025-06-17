@@ -1,18 +1,42 @@
-# VetBooking
+<img src="(https://github.com/FernandoGomesMonteiro/Vetbooking/blob/main/img/WhatsApp%20Image%202024-09-26%20at%2013.36.23%20(1).jpeg)" alt="LogoVetBooking">
+
+## VetBooking
+   # Descrição 
+   VetBooking é uma plataforma que conecta tutores a profissionais veterinários, facilitando o agendamento de consultas e o acesso a informações sobre clínicas e veterinários.
+
+   # Status de desenvolvimento
 
 paginas a montar:
 [X]pagina principal
+<img src="(https://github.com/FernandoGomesMonteiro/Vetbooking/blob/main/img/WhatsApp%20Image%202024-09-26%20at%2013.36.23%20(1).jpeg)" alt="PaginaprincipalVetbooking">
+
 [X]login
+<img src="(https://github.com/FernandoGomesMonteiro/Vetbooking/blob/main/img/WhatsApp%20Image%202024-09-26%20at%2013.36.23%20(1).jpeg)" alt="LoginVetBooking">
+
 [X]seleçao tipo cadastro
+<img src="(https://github.com/FernandoGomesMonteiro/Vetbooking/blob/main/img/WhatsApp%20Image%202024-09-26%20at%2013.36.23%20(1).jpeg)" alt="TipoDeCadastroVetBooking">
+
 [X]cadastro tutor
+<img src="(https://github.com/FernandoGomesMonteiro/Vetbooking/blob/main/img/WhatsApp%20Image%202024-09-26%20at%2013.36.23%20(1).jpeg)" alt="CadastroDeTutorCetbooking">
+
 [x]cadastro medico veterinario
+<img src="(https://github.com/FernandoGomesMonteiro/Vetbooking/blob/main/img/WhatsApp%20Image%202024-09-26%20at%2013.36.23%20(1).jpeg)" alt="CadastroVeterinarioVetBooking">
+
 [X]cadastro clinica
+<img src="(https://github.com/FernandoGomesMonteiro/Vetbooking/blob/main/img/WhatsApp%20Image%202024-09-26%20at%2013.36.23%20(1).jpeg)" alt="LogoVetBooking">
+
 [x]cadastro pet
+<img src="(https://github.com/FernandoGomesMonteiro/Vetbooking/blob/main/img/WhatsApp%20Image%202024-09-26%20at%2013.36.23%20(1).jpeg)" alt="cadastroPet">
+
 []lista pets
+
 [x]cadastro veterinario(clinica)
+<img src="(https://github.com/FernandoGomesMonteiro/Vetbooking/blob/main/img/WhatsApp%20Image%202024-09-26%20at%2013.36.23%20(1).jpeg)" alt="CadastroVeterinarioVEtBooking">
+
 []perfil
 
-VetBooking é uma plataforma que conecta tutores a profissionais veterinários, facilitando o agendamento de consultas e o acesso a informações sobre clínicas e veterinários.
+
+
 
 ## Instalação
 
@@ -48,6 +72,12 @@ Acesse as funcionalidades principais através do navegador em `http://localhost:
 - `app.py`: Arquivo principal do servidor.
 - `pages/`: Contém os arquivos HTML das páginas do site.
 - `styles/`: Contém os arquivos CSS para estilização.
+
+## Membros
+-Amanda Rocha Miquelissa
+-Carlos Henrique Bancks
+- Felipe Nogueira Camilo
+- Fernando Ramos Monteiro
 
 ## Contribuição
 
